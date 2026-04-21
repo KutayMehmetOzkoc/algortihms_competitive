@@ -1,5 +1,6 @@
 package com.comp;
 
+import com.comp.algorithms.BitPlusPlus;
 import com.comp.algorithms.Team;
 import com.comp.algorithms.Watermelon;
 import com.comp.algorithms.WayTooLongWords;
@@ -8,7 +9,7 @@ import com.comp.algorithms.WayTooLongWords;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     static void main() {
-        Team team = new Team();
-        System.out.println(team.team_answer());
+        BitPlusPlus bitPlusPlus = new BitPlusPlus();
+        System.out.println(bitPlusPlus.bit_plus_plus_answer());
     }
 }
