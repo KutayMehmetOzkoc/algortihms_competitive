@@ -6,7 +6,10 @@ import com.comp.algorithms.*;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     static void main() {
-        BeautifulMatrix beautifulMatrix = new BeautifulMatrix();
-        System.out.println(beautifulMatrix.BeautifulMatrixAnswer());
+
+        //PetyaAndStrings petyaAndStrings = new PetyaAndStrings();
+        //System.out.println(petyaAndStrings.PetyaAndStringsAnswer());
+        BoyOrGirl boyOrGirl = new BoyOrGirl();
+        System.out.println(boyOrGirl.boyOrGirlAnswer());
     }
 }
