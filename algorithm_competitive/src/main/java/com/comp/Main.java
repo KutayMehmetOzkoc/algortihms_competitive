@@ -6,7 +6,7 @@ import com.comp.algorithms.*;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     static void main() {
-        NextRound nextRound = new NextRound();
-        System.out.println(nextRound.nextRoundAnswer());
+        DominoPiling dominoPiling = new DominoPiling();
+        System.out.println(dominoPiling.dominoPilingAnswer());
     }
 }
