@@ -7,9 +7,7 @@ import com.comp.algorithms.*;
 public class Main {
     static void main() {
 
-        //PetyaAndStrings petyaAndStrings = new PetyaAndStrings();
-        //System.out.println(petyaAndStrings.PetyaAndStringsAnswer());
-        BoyOrGirl boyOrGirl = new BoyOrGirl();
-        System.out.println(boyOrGirl.boyOrGirlAnswer());
+        HelpfulMaths helpfulMaths = new HelpfulMaths();
+        System.out.println(helpfulMaths.helpfulMathsAnswer());
     }
 }
