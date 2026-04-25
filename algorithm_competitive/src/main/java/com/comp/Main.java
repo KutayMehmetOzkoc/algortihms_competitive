@@ -7,7 +7,7 @@ import com.comp.algorithms.*;
 public class Main {
     static void main() {
 
-        Elephant elephant = new Elephant();
-        elephant.elephantAnswer();
+        StonesontheTable stonesontheTable = new StonesontheTable();
+        System.out.println(stonesontheTable.stonesontheTableAnswer());
     }
 }
