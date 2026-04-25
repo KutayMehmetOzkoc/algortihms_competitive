@@ -7,7 +7,7 @@ import com.comp.algorithms.*;
 public class Main {
     static void main() {
 
-        HelpfulMaths helpfulMaths = new HelpfulMaths();
-        System.out.println(helpfulMaths.helpfulMathsAnswer());
+        WordCapitalization wordCapitalization = new WordCapitalization();
+        System.out.println(wordCapitalization.wordCapitalizationAnswer());
     }
 }
