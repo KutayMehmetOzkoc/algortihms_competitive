@@ -7,7 +7,7 @@ import com.comp.algorithms.*;
 public class Main {
     static void main() {
 
-        WordCapitalization wordCapitalization = new WordCapitalization();
-        System.out.println(wordCapitalization.wordCapitalizationAnswer());
+        BearandBigBrother bearandBigBrother = new BearandBigBrother();
+        System.out.println(bearandBigBrother.bearAndBigBrotherAnswer());
     }
 }
