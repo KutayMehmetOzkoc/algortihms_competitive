@@ -7,7 +7,7 @@ import com.comp.algorithms.*;
 public class Main {
     static void main() {
 
-        StonesontheTable stonesontheTable = new StonesontheTable();
-        System.out.println(stonesontheTable.stonesontheTableAnswer());
+        SoldierandBananas soldierandBananas = new SoldierandBananas();
+        System.out.println(soldierandBananas.soldierandBananasAnswer());
     }
 }
