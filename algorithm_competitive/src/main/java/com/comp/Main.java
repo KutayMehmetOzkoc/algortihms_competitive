@@ -7,7 +7,7 @@ import com.comp.algorithms.*;
 public class Main {
     static void main() {
 
-        Word word = new Word();
-        System.out.println(word.wordAnswer());
+        WrongSubtraction wrongSubtraction = new WrongSubtraction();
+        System.out.println(wrongSubtraction.wrongSubtractionAnswer());
     }
 }
