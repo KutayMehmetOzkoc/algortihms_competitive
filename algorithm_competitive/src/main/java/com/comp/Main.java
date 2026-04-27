@@ -7,7 +7,7 @@ import com.comp.algorithms.*;
 public class Main {
     static void main() {
 
-        WrongSubtraction wrongSubtraction = new WrongSubtraction();
-        System.out.println(wrongSubtraction.wrongSubtractionAnswer());
+        NearlyLuckyNumber nearlyLuckyNumber = new NearlyLuckyNumber();
+        System.out.println(nearlyLuckyNumber.nearlyLuckyNumberAnswer());
     }
 }
