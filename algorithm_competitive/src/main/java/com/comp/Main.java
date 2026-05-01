@@ -7,7 +7,7 @@ import com.comp.algorithms.*;
 public class Main {
     static void main() {
 
-        StringTask stringTask = new StringTask();
-        System.out.println(stringTask.stringTaskAnswer());
+        AntonAndDanik antonAndDanik = new AntonAndDanik();
+        System.out.println(antonAndDanik.antonAndDanikAnswer());
     }
 }
